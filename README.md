@@ -7,8 +7,6 @@
 
 A modern AI-powered content generation tool leveraging Google's Gemini API for intelligent text generation. Features user authentication, content history tracking, and seamless database integration.
 
-![Project Banner](https://via.placeholder.com/1280x400?text=AI+Content+Generator+Banner) <!-- Add your banner image here -->
-
 ## Features ✨
 
 - AI-powered content generation using Gemini API
