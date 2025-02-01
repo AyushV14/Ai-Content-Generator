@@ -62,9 +62,9 @@ DATABASE_URL=your_neon_db_url
 ## Screenshots 🖼️
 
 <!-- Add your screenshots here -->
-![App Interface](https://via.placeholder.com/400x250?text=Generator+Interface)
-![Content History](https://via.placeholder.com/400x250?text=Content+History)
-![User Profile](https://via.placeholder.com/400x250?text=User+Profile)
+![image](https://github.com/user-attachments/assets/63de869b-f4c5-4dbd-bd16-fbf0bc1100a4)
+![image](https://github.com/user-attachments/assets/01c33551-88b7-4987-bad6-4cddf9bbc8eb)
+![image](https://github.com/user-attachments/assets/b11ba548-8c2f-442f-89eb-19a762cf5b6f)
 
 ## Live Demo 🚀
 
